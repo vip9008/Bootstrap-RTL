@@ -1,10 +1,10 @@
 # Bootstrap-RTL
 This is a simple css file to change original bootstrap.css to RTL (built on Bootstrap v3.3.5)
 
-How to use:
+# How to use:
 Just include bootstrap_rtl.css after the original bootstrap.css file.
 
-What changes will be done to thw original?
+# What changes will be done to the original?
 - All bootstrap grid classes (col-xs-?, col-sm-?, col-md-?, col-lg-?) will be float: right; instead of float: left;
 - push and pull classes will be RTL oriented.
 - offset classes will be from right to left.
